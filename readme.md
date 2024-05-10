@@ -2,8 +2,5 @@
 
 ## A demo repository.
 
-This is a demo repository. It will be used to test and explain all kinds of works when working with **Git** and **Github**.
-
-I can now add some extra lines.
-And some lines again.
-
+Aanmaken van een script binnen een wijziging.
+Wijzigingsnummer is **wi2404 1251** voor van der Velden
