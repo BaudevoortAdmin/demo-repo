@@ -6,3 +6,5 @@ This is a demo repository. It will be used to test and explain all kinds of work
 
 I can now add some extra lines.
 And some lines again.
+
+And again, but now in my feature branch
