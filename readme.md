@@ -1,10 +1,7 @@
 # Demo.
 
-## A demo repository.
+#### A demo repository.
 
-Aanmaken van een script binnen een wijziging.
-Wijzigingsnummer is **wi2404 1251** voor van der Velden
+Werken met branches.
 
-Eerst een standaard file aangemaakt
-C:\iac\demo-repo\windows.json.pkr.hcl
 
